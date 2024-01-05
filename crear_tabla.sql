@@ -1,0 +1,1 @@
+CREATE TABLE tabla_jordan (id int PRIMARY KEY, nombre VARCHAR(100), edad int);
